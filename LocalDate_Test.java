@@ -49,7 +49,7 @@ public class LocalDate_Test {
 		System.out.println("\n");
 		
 		System.out.println("---------- LocalDate Object Operations ----------");
-		//ChronoUnit --> is a enum representing the different different units related to 
+		//ChronoUnit --> is a enum representing the different units related to 
 		//               the date and time like YEARS,MONTHS,DAYS etc.
 		// ---> by specifying the different chrono units we can either plus or minus the the given time
 		
